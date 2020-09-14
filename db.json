@@ -1,0 +1,155 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Running shoes",
+      "description": "Running shoes",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSv3h0cm97NQ4HCFgal2RfCqoF2B5yBPtl3Zw&usqp=CAU",
+      "price": 799
+    },
+    {
+      "id": 2,
+      "name": "Running shoes",
+      "description": "Running shoes",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHt1B0-jM-uzZvDC2C4myRrfMlzRBl7AmBdw&usqp=CAU",
+      "price": 699
+    },
+    {
+      "id": 3,
+      "name": "Running shoes",
+      "description": "Running shoes",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqIh1X6lQ3KueC7czIvWPx6LLRKVSPabSI5A&usqp=CAU",
+      "price": 899
+    },
+    {
+      "id": 4,
+      "name": "Running shoes",
+      "description": "Running shoes",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4GYY6cHIcR1Cp8G7ZFHgLPCtLT8aJGgHU_Q&usqp=CAU",
+      "price": 299
+    },
+    {
+      "id": 5,
+      "name": "Running shoes",
+      "description": "Running shoes",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2EU39Ul8XGvFnJcLW1JMBneO8ZVhlHCIFHQ&usqp=CAU",
+      "price": 399
+    },
+    {
+      "id": 6,
+      "name": "Running shoes",
+      "description": "Running shoes",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWN-SccGgONzm-lI_NHFPnCrsVi4Cueax7tg&usqp=CAU",
+      "price": 499
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 3,
+        "name": "Running shoes",
+        "description": "Running shoes",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqIh1X6lQ3KueC7czIvWPx6LLRKVSPabSI5A&usqp=CAU",
+        "price": 899
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Running shoes",
+        "description": "Running shoes",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHt1B0-jM-uzZvDC2C4myRrfMlzRBl7AmBdw&usqp=CAU",
+        "price": 699
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Running shoes",
+        "description": "Running shoes",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHt1B0-jM-uzZvDC2C4myRrfMlzRBl7AmBdw&usqp=CAU",
+        "price": 699
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Running shoes",
+        "description": "Running shoes",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqIh1X6lQ3KueC7czIvWPx6LLRKVSPabSI5A&usqp=CAU",
+        "price": 899
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Running shoes",
+        "description": "Running shoes",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqIh1X6lQ3KueC7czIvWPx6LLRKVSPabSI5A&usqp=CAU",
+        "price": 899
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Running shoes",
+        "description": "Running shoes",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqIh1X6lQ3KueC7czIvWPx6LLRKVSPabSI5A&usqp=CAU",
+        "price": 899
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Running shoes",
+        "description": "Running shoes",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHt1B0-jM-uzZvDC2C4myRrfMlzRBl7AmBdw&usqp=CAU",
+        "price": 699
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Running shoes",
+        "description": "Running shoes",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHt1B0-jM-uzZvDC2C4myRrfMlzRBl7AmBdw&usqp=CAU",
+        "price": 699
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Running shoes",
+        "description": "Running shoes",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqIh1X6lQ3KueC7czIvWPx6LLRKVSPabSI5A&usqp=CAU",
+        "price": 899
+      },
+      "id": 9
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

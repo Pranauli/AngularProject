@@ -3,7 +3,7 @@
 
 <ul  *ngIf="cartItems.length > 0" class="list-group">
     <div class="card-header"> 
-        <strong>Cart</strong>
+       <h3> <strong>Cart</strong> </h3>
     </div>
     <li class="list-group-item" *ngFor="let item of cartItems">
         <app-cart-item [cartItem]= "item"></app-cart-item>
